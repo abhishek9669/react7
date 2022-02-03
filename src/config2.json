@@ -1,0 +1,4 @@
+{
+    "dev_api_url":"http://localhost:1337",
+    "prod_api_url":""
+ }
